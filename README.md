@@ -10,7 +10,7 @@ test code
 
 ```sh
 # check current folder
-uname
+pwd
 
 # show directories
 ls
